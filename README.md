@@ -8,6 +8,12 @@
 sudo docker build -t name_verify_v1 .
 ```
 
+- you can also pull the docker image from docker hub
+
+```bash
+docker pull sawy98/name_verify:name_verify_v1
+```
+
 - ### Run Docker Image
 
 ```bash

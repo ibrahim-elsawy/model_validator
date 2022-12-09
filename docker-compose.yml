@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   app: 
-    build: .
+    image: sawy98/name_verify:name_verify_v1
     ports: 
       - 3000:3000
 
