@@ -30,7 +30,7 @@ python ./test.py -i {test input }
 
 - The output
 
-```json
+```
 Time of the response = 0.166522
 ***********************************************************
 {'valid_name': False}
